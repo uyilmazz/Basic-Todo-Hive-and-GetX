@@ -1,4 +1,4 @@
-# app1
+# Basic Todo-App, Hive cache management and GetX state management
 
 A new Flutter project.
 
